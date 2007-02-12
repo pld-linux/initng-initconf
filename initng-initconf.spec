@@ -1,5 +1,5 @@
 Summary:	Initconf - Gnome GUI for initng
-Summary(pl):	Initconf - graficzny interfejs uøytkownika GNOME dla initng
+Summary(pl.UTF-8):   Initconf - graficzny interfejs u≈ºytkownika GNOME dla initng
 Name:		initng-initconf
 Version:	0.1
 Release:	0.1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Gnome GUI for configuring initng. It's in a _very_ early development
 stage at the time of writing. Please feel free to contribute ;-)
 
-%description -l pl
-Graficzny interfejs uøytkownika GNOME do konfiguracji initng. Jest
+%description -l pl.UTF-8
+Graficzny interfejs u≈ºytkownika GNOME do konfiguracji initng. Jest
 jeszcze w _bardzo_ wczesnym stadium rozwoju, pomoc mile widziana.
 
 %prep
