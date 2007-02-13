@@ -1,5 +1,5 @@
 Summary:	Initconf - Gnome GUI for initng
-Summary(pl.UTF-8):   Initconf - graficzny interfejs użytkownika GNOME dla initng
+Summary(pl.UTF-8):	Initconf - graficzny interfejs użytkownika GNOME dla initng
 Name:		initng-initconf
 Version:	0.1
 Release:	0.1
